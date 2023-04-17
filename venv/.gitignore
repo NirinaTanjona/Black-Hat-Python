@@ -4,3 +4,4 @@ bin/
 include/
 lib/
 pyvenv.cfg
+venv/lib/python3.11/site-packages/tomlkit-0.11.7.dist-info/INSTALLER
